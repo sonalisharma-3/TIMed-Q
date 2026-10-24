@@ -101,6 +101,6 @@ Each drug is mapped to its pharmacological class, such as:
 
 ## Citation
 
-If you use TIMed-Q (Top Internet Medical Question Dataset) in your research, please cite the following publication:
+If you use the TIMed-Q dataset in your research or evaluations, please cite the original study where the dataset was developed and used:
 
 Sharma, S., Alaa, A. M., & Daneshjou, R. (2025). A longitudinal analysis of declining medical safety messaging in generative AI models. npj Digital Medicine, 8, 592. https://doi.org/10.1038/s41746-025-01943-1
